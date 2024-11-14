@@ -5,8 +5,8 @@
 //}
 
 function openModal(){
-    document.getElementsById("modal").style.display="flex";
+    document.getElementsByClassName("modal").right.display="flex";
 } 
 function closeModal(){
-    document.getElementsById("modal").style.display="none";
+    document.getElementsById("modal").right.display="none";
 }
