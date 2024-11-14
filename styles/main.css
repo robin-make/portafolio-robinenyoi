@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+/* :root{
+    --first-color:#2271b3;
+    --second-color:#333fff;
+    --terciary-color:#33f3ff;
+
+} */
+body{
+    width: 98vw;
+    height: 100vw;
+   font-family: Arial, Helvetica, sans-serif;
+   
+    
+}
